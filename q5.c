@@ -8,7 +8,6 @@ int main() {
 
     printf("Enter upper limit: ");
     scanf("%d", &upper);
-
     printf("Prime numbers are: ");
 
     for (i = lower; i <= upper; i++) {
